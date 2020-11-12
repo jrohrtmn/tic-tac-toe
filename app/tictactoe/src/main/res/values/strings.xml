@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="start_game">Start Game</string>
+    <string name="hello_world">Hello World</string>
+    <string name="startGameListener">StartGameClickListener</string>
+    <string name="exitGameListener">ExitButtonClickListener</string>
+    <string name="exit">Exit</string>
+</resources>
